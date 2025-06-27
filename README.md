@@ -54,3 +54,17 @@ This image provides a collage of several dashboard designs featured in this repo
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yusu0105/MD3_UI-UX.git
+2.  Open in Figma
+    Download the .fig files from the repository and import them into Figma to explore or modify the designs.
+    Customize
+3.   Use the Figma files as a starting point for your own projects or to study Material Design 3 implementation.
+
+Contributing
+
+Contributions are welcome! To add new designs, improve existing ones, or suggest enhancements:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/new-design).
+3. Make your changes and commit (git commit -m 'Add new design').
+4. Push to the branch (git push origin feature/new-design).
+5. Open a pull request.
