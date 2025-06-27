@@ -74,10 +74,11 @@ Contributions are welcome! To add new designs, improve existing ones, or suggest
 3. Make your changes and commit (`git commit -m 'Add new design'`).
 4. Push to the branch (`git push origin feature/new-design`).
 5. Open a pull request.
-
 Please ensure your designs align with Material Design 3 principles.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Copyright
 
-**Note**: The images are previews of dashboard or home screen interfaces. For detailed exploration, refer to the `.fig` files in the repository.
+Copyright (c) 2025 yusu0105. All rights reserved.
+No part of these designs may be used, reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright owner. For permission requests, contact [yukeshm1814@gmail.com].
+
+Note: The images are previews of dashboard or home screen interfaces. For detailed exploration, refer to the .fig files in the repository.
