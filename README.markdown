@@ -49,9 +49,9 @@ This image provides a collage of several dashboard designs featured in this repo
    ![Design 7](https://raw.githubusercontent.com/yusu0105/MD3_UI-UX/main/Group%2079.png)
    Likely features calendar and productivity widgets.
 
-8. **Design 8 - Lock Screen Interface**
+8. **Design 8 - Home Screen Interface**
    ![Design 8](https://raw.githubusercontent.com/yusu0105/MD3_UI-UX/main/Group%2078.png)
-   Likely represents a lock screen or minimal dashboard with a search bar.
+   Likely represents a home screen or minimal dashboard with a search bar.
 
 ## Tools Used
 - **Figma**: All designs are created and prototyped using Figma, leveraging its collaborative and vector-based design capabilities.
